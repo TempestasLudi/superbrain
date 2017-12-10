@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p21-neural", "p21-neural\p21-neural.csproj", "{9C3D22DB-5392-408A-AF86-F7BADA69347A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C3D22DB-5392-408A-AF86-F7BADA69347A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C3D22DB-5392-408A-AF86-F7BADA69347A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C3D22DB-5392-408A-AF86-F7BADA69347A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C3D22DB-5392-408A-AF86-F7BADA69347A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
