@@ -51,7 +51,6 @@
     <Compile Include="src\Edge.cs" />
     <Compile Include="src\Evolution.cs" />
     <Compile Include="src\Evolver.cs" />
-    <Compile Include="src\MapExtension.cs" />
     <Compile Include="src\Network.cs" />
     <Compile Include="src\Node.cs" />
     <Compile Include="src\RandomParameters.cs" />
